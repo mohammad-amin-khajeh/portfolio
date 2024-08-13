@@ -33,7 +33,7 @@ const Bio = () => (
         >
           <AtSign className="cursor-pointer transition hover:scale-125 text-tokyonight-light-purple hover:text-tokyonight-dark-purple/50" />
         </a>
-        <a href="t.me/kvltvred" target="_blank" rel="noreferrer">
+        <a href="https://t.me/kvltvred" target="_blank" rel="noreferrer">
           <Send className="cursor-pointer transition hover:scale-125 text-tokyonight-light-yellow hover:text-tokyonight-dark-yellow/50" />
         </a>
         <a
