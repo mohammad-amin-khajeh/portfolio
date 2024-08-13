@@ -6,7 +6,7 @@ import { Info } from "lucide-react";
 
 export default function App() {
   return (
-    <div className="container-md mx-auto grid grid-cols-1 mt-8 md:grid-cols-3 gap-4 p-3 md:p-7">
+    <div className="container-md mx-auto md:grid mt-8 md:grid-cols-3 gap-4 p-3 md:p-7">
       <div>
         <h1>
           <div className="flex justify-center">
