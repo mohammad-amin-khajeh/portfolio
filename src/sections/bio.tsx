@@ -44,7 +44,7 @@ const Bio = () => (
           <Youtube className="cursor-pointer transition hover:scale-125 text-tokyonight-light-red hover:text-tokyonight-dark-red/50" />
         </a>
       </div>
-      <p className="text-tokyonight-light-green font-semibold">
+      <p className="text-tokyonight-light-green max-md:mb-2 font-semibold">
         Junior fullstack developer at your service.
       </p>
     </section>

@@ -16,7 +16,7 @@ const Interests = () => (
         Interests <Sticker className="mt-1 md:mt-2 ml-1" />
       </div>
     </h2>
-    <ul className="gap-3 flex flex-col">
+    <ul className="gap-3 max-md:mb-3 flex flex-col">
       {interests.map((interest, index) => (
         // biome-ignore lint/suspicious/noArrayIndexKey: <explanation>
         <InterestList key={index} name={interest} index={index} />
