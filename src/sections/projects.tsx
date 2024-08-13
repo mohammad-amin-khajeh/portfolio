@@ -13,14 +13,14 @@ const projects: project[] = [
     name: "Event launcher",
     description: "Pretty event launcher made with nextjs, tailwind and react.",
     url: "https://github.com/mohammad-amin-khajeh/nextjs-event-launcher",
-    imgUrl: "src/assets/event launcher.png",
+    imgUrl: "assets/event launcher.png",
   },
   {
     name: "Tic-Tac-Toe",
     description:
       "Simple Tic-Tac-Toe game built in react that doesn't sacrifice on its looks.",
     url: "https://github.com/mohammad-amin-khajeh/tic-tac-toe",
-    imgUrl: "src/assets/tic_tac_toe.png",
+    imgUrl: "assets/tic_tac_toe.png",
   },
   {
     name: "Dwm build",

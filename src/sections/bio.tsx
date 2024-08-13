@@ -4,7 +4,7 @@ const Bio = () => (
   <>
     <section className="section">
       <img
-        src="src/assets/memoji.png"
+        src="assets/memoji.png"
         alt="memoji"
         className="bg-violet-200 size-32 rounded-full"
       />
